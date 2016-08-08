@@ -1,3 +1,10 @@
 mvn tomcat:run
 
-Î´Íê´ıĞø¡£¡£¡£¡£
+url=jdbc\:mysql\://localhost\:3306/sakila
+username=root
+driver=com.mysql.jdbc.Driver
+password=12345
+
+æ•°æ®åº“æ–‡ä»¶è·¯å¾„ä¸º  ï¼šwebtestaa/src/main/java/dbinfo.properties
+
+æµè§ˆå™¨è®¿é—®è·¯å¾„ä¸ºï¼šhttp://localhost:8080/webtestaa/
